@@ -1,4 +1,4 @@
-## ML-Interact: A simple and interactive ML web App for beginners
+## ML-Interact: A simple and interactive ML classification web App for beginners
 
 This is a simple Machine Learning Web App which lets user interact with a classification model by easily switching between various models, changing required hyperparameters and comparing their results using various evaluation metrics such as confusion Matrix, ROC curve etc.
 
