@@ -23,7 +23,7 @@ git clone https://github.com/Anant1Agarwal/ML_Interact.git
 cd ML_interact
 pip install -r requirements.txt
 ```
-3. **Runnning the App**
+3. **Run the App**
 
 ```bash
 streamlit run app.py
