@@ -11,7 +11,7 @@ This is a simple Machine Learning Web App which lets user interact with a classi
 ### Setup Instructions
 **Steps:**
 
-1.**Clone the repository**
+1. **Clone the repository**
 
 ```bash
 git clone https://github.com/Anant1Agarwal/ML_Interact.git
